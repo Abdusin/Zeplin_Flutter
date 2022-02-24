@@ -2,7 +2,7 @@
 
 Control your flutter application on [zeplin](https://zeplin.io).
 
-## Usage
+## 🎯 Usage
 
 ```dart
 var zeplinData = ZeplinFlutter.fetchFromZeplin(token: @token,projectId: @projectId);
@@ -23,24 +23,36 @@ ZeplinFlutter.instance.horizontalSpace(@SPACERNAME); //SizedBox
 ZeplinFlutter.instance.verticalSpace(@SPACERNAME); //SizedBox
 ```
 
-## Example
+## 💻 Example
 
 ![url](./screenshots/mobile_ss.png)
 
 
-## How To Get Project ID
+## 🚀 How To Get Project ID
 
 open your project on [zeplin app](https://support.zeplin.io/en/articles/244698-downloading-mac-and-windows-apps) or [web site](https://app.zeplin.io) then go to styleguide tab
 
 Step 1             |  Step2
 :-------------------------:|:-------------------------:
-![url](./screenshots/step1.png) | ![url](./screenshots/step2.png)
+![url](https://github.com/Abdusin/Zeplin_Flutter/blob/main/screenshots/step1.png?raw=true) | ![url](https://github.com/Abdusin/Zeplin_Flutter/blob/main/screenshots/step2.png?raw=true)
 
 
-## How To Get Token
+## 🚀 How To Get Token
 
 go to zeplin [developer page](https://app.zeplin.io/profile/developer) 
 
 Step 1             |  Step 3             | Step 3
 :-------------------------:|:-------------------------:|:-------------------------:
-![url](./screenshots/token_step1.png) | ![url](./screenshots/token_step2.png) | ![url](./screenshots/token_step3.png)"# Zeplin_Flutter" 
+![url](https://github.com/Abdusin/Zeplin_Flutter/blob/main/screenshots/token_step1.png?raw=true) | ![url](https://github.com/Abdusin/Zeplin_Flutter/blob/main/screenshots/token_step2.png?raw=true) | ![url](https://github.com/Abdusin/Zeplin_Flutter/blob/main/screenshots/token_step3.png?raw=true)
+
+## 🙋‍♀️🙋‍♂️ Contributing
+
+All contributions are welcome! Just make sure that it's not an already existing issue or pull request.
+
+<!-- DO NOT REMOVE - contributor_list:start -->
+
+## 👥 Contributors
+
+- **[@Abdusin](https://github.com/abdusin)**
+
+<!-- DO NOT REMOVE - contributor_list:end -->
