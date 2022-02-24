@@ -1,3 +1,7 @@
+## 0.0.2
+
+* readme updated
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Initial release

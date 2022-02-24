@@ -25,7 +25,7 @@ ZeplinFlutter.instance.verticalSpace(@SPACERNAME); //SizedBox
 
 ## 💻 Example
 
-![url](./screenshots/mobile_ss.png)
+![url](https://github.com/Abdusin/Zeplin_Flutter/blob/main/screenshots/mobile_ss.png?raw=true)
 
 
 ## 🚀 How To Get Project ID
